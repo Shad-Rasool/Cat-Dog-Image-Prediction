@@ -1,0 +1,1 @@
+If using on PC can save model on PC by un commenting Save model Code Lines and then train data and save it then you can just load data and does not require to train data every time and can use short code provided!!
